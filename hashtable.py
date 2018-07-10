@@ -157,7 +157,8 @@ if __name__ == '__main__':
         'end',
     )
 
-
+    str="Hello world"
+    str.encode()
 
 
 
